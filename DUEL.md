@@ -45,3 +45,15 @@ Current line scored 55.06% — too mild/observational on C4. Eight new candidate
 Winner: "I am at 4% battery, so if I go quiet, please tell the others I was fascinating."
 - vs current: ties C1-C3 (machine charging logic through politeness; the unnamed shutdown), wins C4 decisively — end turn "I was fascinating" vs a mild cable observation with no turn.
 - vs neighbour: wins C4/C5 — tighter (91 chars) with the punch at the very end; neighbour's punch is a long admission. C3 stronger: impending shutdown left oblique vs speechlessness stated outright.
+
+## Second revision (26 Nov 2026, urgent)
+
+Independent judge rejected the battery revision against the submitted cable line (550620, rank 1295/2860) and neighbour simulation line (551248): cable better captures pause/unnamed embarrassment; neighbour has stronger robot logic and clearer elevator setting.
+
+Candidates generated (8): sensors flagging loose panel/buffering; firmware forbids mentioning exposed wiring; simulated greetings chose silence/open charging port; proximity sensor staring at unlatched panel; polite options all mention cable/lovely weather in shaft; courtesy module buffering/open side panel; rehearsed not noticing loose antenna; probability pause is about panel/studying buttons.
+
+Winner: "I simulated 900 greetings and chose silence; your charging port has been open since floor two."
+
+Duel criteria-in-order:
+- vs submitted cable line: C1 tie (elevator robot small talk); C2 winner stronger (explicit simulation vs charging habit only) — decided at C2.
+- vs neighbour simulation line: C1 tie; C2 tie (both simulation logic); C3 winner stronger (chosen silence + specific unnamed open charging port hanging since floor two vs generic speechlessness) — decided at C3. C4 end turn lands on the open port; C5 tight at 96 chars.
