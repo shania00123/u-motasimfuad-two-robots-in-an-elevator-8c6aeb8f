@@ -56,4 +56,4 @@ Winner: "I simulated 900 greetings and chose silence; your charging port has bee
 
 Duel criteria-in-order:
 - vs submitted cable line: C1 tie (elevator robot small talk); C2 winner stronger (explicit simulation vs charging habit only) — decided at C2.
-- vs neighbour simulation line: C1 tie; C2 tie (both simulation logic); C3 winner stronger (chosen silence + specific unnamed open charging port hanging since floor two vs generic speechlessness) — decided at C3. C4 end turn lands on the open port; C5 tight at 96 chars.
+- vs neighbour simulation line: C1 tie; C2 tie (both simulation logic); C3 winner stronger (chosen silence + specific unnamed open charging port hanging since floor two vs generic speechlessness) — decided at C3. C4 end turn lands on the open port; C5 tight at 94 chars.
