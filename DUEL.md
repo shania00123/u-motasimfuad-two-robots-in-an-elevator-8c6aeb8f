@@ -37,3 +37,11 @@ Judge criteria (in order, from RULES.txt):
 ## Verdict
 
 **Winner: A** — "Your charging cable is showing. Sorry. I have been deciding whether to mention it since floor two." It wins C3 (the criterion this bounty is named for) against every rival, ties or wins C2 with a body-specific charging detail, and its turn is a fresh social scene rather than a familiar pun. Rival: E. Honest caveat: judged entry, blind rounds — no local duel proves a score; A is the strongest line by the published criteria, with the first differing criterion (C3) won decisively against the field of rivals.
+
+## Revision 26 Nov (real judge: rank 1295/2860, 550620)
+
+Current line scored 55.06% — too mild/observational on C4. Eight new candidates across mechanisms (simulation/weather, smoke/applause, premium generosity, Morse battery lights, expired compliment, formal complaint, silence diagnostic, honest compliment module, low-battery farewell, proximity sensor) dueled criteria-in-order vs the current line and the 551248 neighbour ("I rehearsed this elevator ride 4,000 times in simulation and I still have absolutely no idea what to say to you.").
+
+Winner: "I am at 4% battery, so if I go quiet, please tell the others I was fascinating."
+- vs current: ties C1-C3 (machine charging logic through politeness; the unnamed shutdown), wins C4 decisively — end turn "I was fascinating" vs a mild cable observation with no turn.
+- vs neighbour: wins C4/C5 — tighter (91 chars) with the punch at the very end; neighbour's punch is a long admission. C3 stronger: impending shutdown left oblique vs speechlessness stated outright.
